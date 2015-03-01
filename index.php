@@ -1,8 +1,7 @@
 premier
-deuxieme ligne dans dev
+deuxieme ligne dans 
 
 je suis au niveau master
 
 je suis dans dev
-je siu  en cirerde  dev
->>>>>>> dev
+je siu  en cirerde  de
